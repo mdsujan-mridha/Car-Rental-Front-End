@@ -22,10 +22,10 @@ Check out the live demo of the application [here](https://rental12.netlify.app/c
 
 ## Screenshots
 
-![Home Page](path-to-your-screenshot)
-![Car Listing](path-to-your-screenshot)
-![Car Details](path-to-your-screenshot)
-![Responsive View](path-to-your-screenshot)
+![Home Page](https://github.com/mdsujan-mridha/Car-Rental-Front-End/blob/main/images/home.png)
+![Car Listing](https://github.com/mdsujan-mridha/Car-Rental-Front-End/blob/main/images/car.png)
+![Car Details](https://github.com/mdsujan-mridha/Car-Rental-Front-End/blob/main/images/contact.png)
+![Responsive View](https://github.com/mdsujan-mridha/Car-Rental-Front-End/blob/main/images/about.png)
 
 ## Installation
 
