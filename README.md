@@ -24,8 +24,10 @@ Check out the live demo of the application [here](https://rental12.netlify.app/c
 
 ![Home Page](https://github.com/mdsujan-mridha/Car-Rental-Front-End/blob/main/images/home.png)
 ![Car Listing](https://github.com/mdsujan-mridha/Car-Rental-Front-End/blob/main/images/car.png)
+![Details](https://github.com/mdsujan-mridha/Car-Rental-Front-End/blob/main/images/details.png)
 ![Car Details](https://github.com/mdsujan-mridha/Car-Rental-Front-End/blob/main/images/contact.png)
 ![Responsive View](https://github.com/mdsujan-mridha/Car-Rental-Front-End/blob/main/images/about.png)
+
 
 ## Installation
 
@@ -33,11 +35,11 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-rental-frontend.git
+   git clone https://github.com/mdsujan-mridha/Car-Rental-Front-End.git
    ```
    2. Navigate to the project directory:
    ```bash
-   cd car-rental-frontend
+   cd Car-Rental-Front-End
    ```
    3. Install the dependencies:
    ```bash
